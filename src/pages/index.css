@@ -1,0 +1,11 @@
+.main {
+  margin-top: 40px;
+}
+.main button {
+  margin: 20px;
+}
+.child {
+  background: gainsboro;
+  width: 300px;
+  margin: 0 auto;
+}
